@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saikrishnareddyk
-- 🌱 I’m currently learning JavaScripts and its framwork
+- 🌱 I’m currently learning JavaScripts and its framework
 - 👨‍💻 All of my projects are available https://saikrishnareddyk.github.io/
 - 📫 How to reach me kskrishnareddy9@gmail.com
 
